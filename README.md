@@ -2,7 +2,7 @@
 
 - SwiftUI;
 - CoreData;
-- Combine (basic implementations rn but will be improved in the future);
+- Combine (basic implementations rn but they will be improved in the future);
 - MVVM architecture in Views;
 
   <img width=250 src=https://github.com/user-attachments/assets/6782fa7f-98d0-461a-943f-0ba1e72233b9>
